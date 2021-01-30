@@ -1,0 +1,19 @@
+
+# Word, Excel & LibreOffice temporary files
+~$*.xls*
+*.xlk
+*.tmp
+~$*.doc*
+.~lock.*#
+
+# other linux temporary files
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# other windows temp files
+Thumbs.db
+Thumbs.db:encryptable
+[Dd]esktop.ini
+*.lnk

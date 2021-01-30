@@ -1,0 +1,413 @@
+吗	CH::HSK1 CH::Lektion2 CH::TOP2000
+我	CH::HSK1 CH::Lektion1 CH::TOP2000
+很	CH::HSK1 CH::Lektion1 CH::TOP2000
+呢	CH::HSK1 CH::Lektion2 CH::TOP2000
+也	CH::HSK2 CH::Lektion1 CH::TOP2000
+你	CH::HSK1 CH::Lektion1 CH::TOP2000
+好	CH::HSK1 CH::Lektion1 CH::TOP2000
+妈妈	CH::HSK1 CH::Lektion2 CH::TOP2000
+爸爸	CH::HSK1 CH::Lektion2 CH::TOP2000
+他们	CH::Lektion2 CH::TOP2000
+忙	CH::HSK2 CH::Lektion2 CH::TOP2000
+们	CH::HSK2 CH::Lektion2 CH::TOP2000
+都	CH::HSK1 CH::Lektion2 CH::TOP2000
+不	CH::HSK1 CH::Lektion2 CH::TOP2000
+男	CH::HSK2 CH::Lektion2 CH::TOP2000
+朋友	CH::HSK1 CH::Lektion2 CH::TOP2000
+哥哥	CH::HSK2 CH::Lektion2 CH::TOP2000
+要	CH::HSK2 CH::Lektion2 CH::TOP2000
+咖啡	CH::HSK2 CH::Lektion2 CH::TOP2000
+弟弟	CH::HSK2 CH::Lektion2 CH::TOP2000
+我们	CH::HSK1 CH::Lektion2 CH::TOP2000
+喝	CH::HSK1 CH::Lektion2 CH::TOP2000
+丁	CH::Lektion2
+她	CH::HSK1 CH::Lektion3 CH::TOP2000
+是	CH::HSK1 CH::Lektion3 CH::TOP2000
+哪	CH::HSK1 CH::Lektion3 CH::TOP2000
+国	CH::HSK2 CH::Lektion3
+人	CH::HSK1 CH::Lektion3 CH::TOP2000
+那	CH::HSK1 CH::Lektion3 CH::TOP2000
+谁	CH::HSK1 CH::Lektion3 CH::TOP2000 leech
+老师	CH::HSK1 CH::Lektion3 CH::TOP2000
+中国	CH::HSK1 CH::Lektion3 CH::TOP2000
+您	CH::HSK2 CH::Lektion3 CH::TOP2000
+这	CH::HSK1 CH::Lektion3 CH::TOP2000
+外语	CH::Lektion3
+医生	CH::HSK1 CH::Lektion3 CH::TOP2000
+奶奶	CH::HSK3 CH::Lektion3 CH::TOP2000
+外婆	CH::Lektion3
+陈	CH::Lektion3 chpaused
+认识	CH::HSK1 CH::Lektion4 CH::TOP2000
+高兴	CH::HSK1 CH::Lektion4 CH::TOP2000
+可以	CH::HSK2 CH::Lektion4 CH::TOP2000
+近来	CH::Lektion4
+进	CH::HSK2 CH::Lektion4 CH::TOP2000 leech
+来	CH::HSK1 CH::Lektion4 CH::TOP2000
+请	CH::HSK1 CH::Lektion4 CH::TOP2000 leech
+记者	CH::HSK4 CH::Lektion4 leech
+请问	CH::Lektion4
+问	CH::HSK2 CH::Lektion4 CH::TOP2000
+贵姓	CH::Lektion4 chpaused
+性	CH::HSK2 CH::Lektion4 CH::TOP2000 leech marked
+叫	CH::HSK1 CH::Lektion4 CH::TOP2000
+先生	CH::HSK1 CH::Lektion4 CH::TOP2000
+杨	CH::Lektion4
+语言	CH::HSK4 CH::Lektion4
+学院	CH::Lektion4
+的	CH::HSK1 CH::Lektion4 CH::TOP2000
+学生	CH::HSK1 CH::Lektion4 CH::TOP2000
+什么	CH::HSK1 CH::Lektion4 CH::TOP2000
+学习	CH::HSK1 CH::Lektion4 CH::TOP2000
+汉语	CH::HSK1 CH::Lektion4
+英国	CH::Lektion4 CH::TOP2000
+马大为	CH::Lektion4
+加拿大	CH::Lektion4
+美国	CH::Lektion4 CH::TOP2000
+蛋糕	CH::HSK3 CH::Lektion8 CH::TOP2000
+在	CH::HSK1 CH::HSK2 CH::Lektion5 CH::TOP2000
+昨天	CH CH::HSK1 CH::Lektion11 CH::TOP2000
+再	CH::HSK1 CH::HSK2 CH::Lektion5 CH::TOP2000 leech
+明天	CH::HSK1 CH::Lektion6 CH::TOP2000
+知道	CH::HSK2 CH::Lektion5 CH::TOP2000
+喜欢	CH::HSK1 CH::Lektion7 CH::TOP2000
+爱	CH::HSK1 CH::Lektion7 CH::TOP2000
+面包	CH::HSK3 CH::Lektion8
+买	CH::HSK1 CH::Lektion8 CH::TOP2000
+瓶	CH::Lektion8 CH::TOP2000 chpaused marked
+介绍	CH::HSK2 CH::Lektion7 CH::TOP2000 leech
+现在	CH::HSK1 CH::Lektion6 CH::TOP2000
+漂亮	CH::HSK1 CH::Lektion8 CH::TOP2000
+餐厅	CH::HSK4 CH::Lektion5
+哪儿	CH::HSK1 CH::Lektion5 CH::TOP2000
+宿舍	CH::Lektion5
+女	CH::HSK1 CH::HSK2 CH::Lektion5 CH::TOP2000
+坐	CH::HSK1 CH::Lektion5 CH::TOP2000
+谢谢	CH::HSK1 CH::Lektion5 CH::TOP2000
+对不起	CH::HSK1 CH::Lektion5 CH::TOP2000
+没关系	CH::HSK1 CH::Lektion5 CH::TOP2000
+再见	CH::HSK1 CH::Lektion5 CH::TOP2000
+王小云	CH::Lektion5
+小姐	CH::HSK1 CH::Lektion5 CH::TOP2000
+二	CH::HSK1 CH::Lektion5 CH::TOP2000
+层	CH::HSK3 CH::Lektion5
+〇	CH::HSK2 CH::Lektion5
+四	CH::HSK1 CH::Lektion5 CH::TOP2000
+号	CH::HSK1 CH::Lektion5 CH::TOP2000
+不用	CH::Lektion5 CH::TOP2000
+这儿	CH::Lektion5 CH::TOP2000
+晚	CH::Lektion5 CH::TOP2000
+了	CH::HSK1 CH::Lektion5 CH::TOP2000
+宋华	CH::Lektion5
+游泳	CH::HSK2 CH::Lektion6
+京剧	CH::HSK4 CH::Lektion6
+怎么样	CH::HSK1 CH::Lektion6 CH::TOP2000
+有意思	CH::Lektion6 CH::TOP2000
+天	CH::Lektion6 CH::TOP2000
+天气	CH::HSK1 CH::Lektion6
+太	CH::HSK1 CH::Lektion6 CH::TOP2000
+时候	CH::HSK1 CH::Lektion6 CH::TOP2000
+时间	CH::HSK2 CH::Lektion6 CH::TOP2000 chpaused
+说	CH::HSK1 CH::Lektion6 CH::TOP2000
+遍	CH::HSK4 CH::Lektion6 CH::TOP2000
+打球	CH::Lektion6
+打	CH::Lektion6 CH::TOP2000 chpaused
+球	CH::Lektion6 CH::TOP2000
+抱歉	CH::HSK4 CH::Lektion6 CH::TOP2000
+恐怕	CH::HSK4 CH::Lektion6 CH::TOP2000 leech
+行	CH::HSK4 CH::Lektion6 CH::TOP2000 chpaused leech
+你们	CH::Lektion6 CH::TOP2000
+开学	CH::Lektion7
+开	CH::HSK1 CH::Lektion7 CH::TOP2000
+高	CH::HSK2 CH::Lektion7 CH::TOP2000
+看	CH::HSK1 CH::Lektion7 CH::TOP2000
+一下	CH::HSK2 CH::Lektion7 CH::TOP2000
+名片	CH::Lektion7
+啊	CH::HSK3 CH::Lektion7 CH::TOP2000
+教授	CH::HSK4 CH::Lektion7 CH::TOP2000
+教	CH::HSK1 CH::HSK3 CH::Lektion7 CH::TOP2000 leech
+张	CH::HSK3 CH::Lektion7 CH::TOP2000
+名字	CH::HSK1 CH::Lektion7 CH::TOP2000
+专业	CH::HSK4 CH::Lektion7
+美术	CH::Lektion7
+美	CH::Lektion7 CH::TOP2000
+文学	CH::Lektion7 chpaused
+系	CH::Lektion7
+选修	CH::Lektion7 chpaused leech marked
+几	CH::HSK1 CH::Lektion8 CH::TOP2000
+口	CH::HSK3 CH::Lektion8 CH::TOP2000
+照片	CH::HSK3 CH::Lektion8 CH::TOP2000
+和	CH::HSK1 CH::Lektion8 CH::TOP2000
+个	CH::HSK1 CH::Lektion8 CH::TOP2000
+姐姐	CH::HSK2 CH::Lektion8 CH::TOP2000
+两	CH::HSK2 CH::Lektion8 CH::TOP2000
+还	CH::HSK2 CH::HSK3 CH::Lektion8 CH::TOP2000 chpaused
+一共	CH::HSK3 CH::Lektion8
+妹妹	CH::HSK2 CH::Lektion8 CH::TOP2000
+小	CH::HSK1 CH::Lektion8 CH::TOP2000
+张	CH::HSK3 CH::Lektion8 CH::TOP2000
+当然	CH::HSK3 CH::Lektion8 CH::TOP2000
+真	CH::HSK2 CH::Lektion8 CH::TOP2000
+可爱	CH::HSK3 CH::Lektion8 CH::TOP2000
+没	CH::Lektion8 CH::TOP2000
+做	CH::HSK1 CH::Lektion8 CH::TOP2000 chpaused
+工作	CH::HSK1 CH::Lektion8 CH::TOP2000
+贝贝	CH::Lektion8
+大	CH::HSK1 CH::Lektion8 CH::TOP2000
+少	CH::HSK1 CH::Lektion8 CH::TOP2000
+外	CH::HSK2 CH::Lektion8 CH::TOP2000
+语	CH::Lektion8 CH::TOP2000
+外国	CH::Lektion8
+车	CH::Lektion8 CH::TOP2000
+词典	CH::HSK3 CH::Lektion8
+孩子	CH::HSK2 CH::Lektion8 CH::TOP2000
+爷爷	CH::HSK3 CH::Lektion8
+外公	CH::Lektion8
+助教	CH::Lektion8 chpaused leech marked
+律师	CH::HSK4 CH::Lektion8 CH::TOP2000 leech
+工程师	CH::Lektion8
+年	CH::HSK1 CH::Lektion9 CH::TOP2000
+岁	CH::HSK1 CH::Lektion9 CH::TOP2000
+课	CH::HSK2 CH::Lektion9 CH::TOP2000
+星期	CH::HSK1 CH::Lektion9 CH::TOP2000 chpaused
+上午	CH::HSK1 CH::Lektion9
+上	CH::HSK1 CH::Lektion9 CH::TOP2000
+下午	CH::HSK1 CH::Lektion9 CH::TOP2000
+下	CH::HSK1 CH::Lektion9 CH::TOP2000
+星期日	CH::Lektion9
+生日	CH::HSK2 CH::Lektion9 CH::TOP2000
+生	CH::Lektion9 CH::TOP2000 marked
+多大	CH::Lektion9
+多	CH::HSK1 CH::Lektion9 CH::TOP2000
+出生	CH::HSK4 CH::Lektion9
+出	CH::HSK2 CH::Lektion9 CH::TOP2000
+属	CH::Lektion9 leech
+聚会	CH::HSK4 CH::Lektion9 CH::TOP2000 leech
+会	CH::HSK1 CH::Lektion9 CH::TOP2000
+祝贺	CH::HSK4 CH::Lektion9
+祝	CH::Lektion9 CH::TOP2000 leech
+参加	CH::HSK3 CH::Lektion9 CH::TOP2000
+蛋	CH::Lektion9 CH::TOP2000
+糕	CH::HSK2 CH::Lektion9
+红葡萄酒	CH::Lektion9
+红	CH::HSK2 CH::Lektion9 CH::TOP2000
+葡萄	CH::HSK4 CH::Lektion9
+酒	CH::HSK1 CH::Lektion9 CH::TOP2000
+北京	CH::HSK1 CH::Lektion9
+快乐	CH::HSK2 CH::Lektion9 CH::TOP2000
+烤鸭	CH::HSK4 CH::Lektion9
+鸭	CH::Lektion9 chpaused
+寿面	CH::Lektion9
+面	CH::Lektion9 CH::TOP2000
+晚上	CH::HSK2 CH::Lektion9 CH::TOP2000
+中餐	CH::Lektion9
+西餐	CH::Lektion9 chpaused
+茶	CH::HSK1 CH::Lektion9
+可乐	CH::Lektion9
+雪碧	CH::Lektion9 leech
+汉堡	CH::Lektion9
+热狗	CH::Lektion9
+加	CH::HSK1 CH::Lektion8 CH::TOP2000
+减	CH::Lektion8 chpaused leech
+乘	CH::Lektion8 chpaused
+介绍人	CH::Lektion8
+小猫	CH::Lektion8
+光盘	CH::Lektion10
+音乐	CH::HSK3 CH::Lektion10 CH::TOP2000 leech
+商场	CH::Lektion10
+商	CH::Lektion10 leech
+常常	CH::Lektion10
+常	CH::Lektion10 CH::TOP2000
+跟	CH::HSK3 CH::Lektion10 CH::TOP2000
+有名	CH::HSK3 CH::Lektion10
+书	CH::HSK1 CH::Lektion10 CH::TOP2000
+报	CH::Lektion10 leech
+本子	CH::Lektion10
+梁祝	CH::Lektion10 chpaused leech
+师傅	CH::HSK4 CH::Lektion10
+香蕉苹果	CH::Lektion10
+香蕉	CH::HSK3 CH::Lektion10 chpaused
+苹果	CH::HSK1 CH::Lektion10
+怎么	CH::HSK1 CH::Lektion10 CH::TOP2000
+容易	CH::HSK3 CH::Lektion10 CH::TOP2000 leech
+斤	CH::Lektion10
+块	CH::HSK1 CH::Lektion10 CH::TOP2000
+毛	CH::HSK4 CH::Lektion10 CH::TOP2000
+分	CH::HSK3 CH::Lektion10 CH::TOP2000
+送	CH::HSK2 CH::Lektion10 CH::TOP2000 chpaused leech
+找	CH::HSK2 CH::Lektion10 CH::TOP2000
+笔	CH::Lektion10 CH::TOP2000
+支	CH::Lektion10 CH::TOP2000
+份	CH::HSK4 CH::Lektion10 CH::TOP2000 chpaused
+本	CH::HSK1 CH::Lektion10 CH::TOP2000 chpaused
+售货员	CH::HSK4 CH::Lektion10 chpaused
+作家	CH::HSK4 CH::Lektion10
+便宜	CH::HSK2 CH::Lektion10 leech
+书店	CH::Lektion10
+体育馆	CH::Lektion10 chpaused
+卖	CH::HSK2 CH::Lektion10 CH::TOP2000
+日	CH::HSK2 CH::Lektion9 CH::TOP2000
+姓名	CH::HSK2 CH::Lektion9
+出生日期	CH::HSK2 CH::Lektion9
+历史	CH::HSK3 CH::Lektion9 CH::TOP2000 leech
+文化	CH::HSK3 CH::Lektion9 chpaused leech
+头	CH::Lektion9 CH::TOP2000 chpaused
+手	CH::Lektion9 CH::TOP2000
+耳	CH::Lektion9
+目	CH::Lektion9
+白酒	CH::Lektion9
+点	CH::HSK1 CH::Lektion11 CH::TOP2000
+东西	CH::HSK1 CH::Lektion11 CH::TOP2000
+点儿	CH::Lektion11 CH::TOP2000
+点钟	CH::Lektion11 chpaused
+差	CH::HSK3 CH::Lektion11 CH::TOP2000 marked
+刻	CH::HSK3 CH::Lektion11 leech
+回	CH::HSK1 CH::Lektion11 CH::TOP2000 chpaused
+上课	CH::Lektion11
+能	CH::HSK1 CH::Lektion11 CH::TOP2000
+到	CH::HSK2 CH::Lektion11 CH::TOP2000 chpaused
+英语	CH::Lektion11
+孙女儿	CH::Lektion11
+女儿	CH::HSK1 CH::Lektion11 CH::TOP2000
+岁数	CH::Lektion11 chpaused
+数	CH::Lektion11 CH::TOP2000 leech
+拜拜	CH::Lektion11
+为什么	CH::HSK2 CH::Lektion11 CH::TOP2000
+为	CH::HSK3 CH::Lektion11 CH::TOP2000
+玩儿	CH::Lektion11
+半	CH::HSK3 CH::Lektion11 CH::TOP2000
+汉字	CH::Lektion11
+字	CH::HSK1 CH::Lektion11 CH::TOP2000
+睡	CH::Lektion11 CH::TOP2000 chpaused
+写	CH::HSK1 CH::Lektion11 CH::TOP2000 chpaused
+起床	CH::HSK2 CH::Lektion11
+起	CH::Lektion11 CH::TOP2000 chpaused
+应该	CH::HSK3 CH::Lektion11 CH::TOP2000
+该	CH::Lektion11 CH::TOP2000 chpaused
+问题	CH::HSK2 CH::Lektion11 CH::TOP2000
+下课	CH::Lektion11
+吃饭	CH::Lektion11 CH::TOP2000
+开车	CH::Lektion11 CH::TOP2000
+唱歌	CH::HSK2 CH::Lektion11 chpaused
+跳舞	CH::HSK2 CH::Lektion11 CH::TOP2000 leech
+回答	CH::HSK3 CH::Lektion11 CH::TOP2000 leech
+礼物	CH::HSK3 CH::Lektion11 CH::TOP2000
+打的	CH::Lektion11 chpaused
+吸烟	CH::Lektion11
+难	CH::HSK3 CH::Lektion11 CH::TOP2000 leech
+全身	CH::Lektion12
+全	CH::Lektion12 CH::TOP2000 chpaused
+身	CH::Lektion12 CH::TOP2000
+舒服	CH::HSK3 CH::Lektion12 CH::TOP2000 leech
+每	CH::HSK2 CH::Lektion12 CH::TOP2000
+锻炼	CH::HSK3 CH::Lektion12 chpaused leech
+疼	CH::HSK3 CH::Lektion12 CH::TOP2000
+嗓子	CH::Lektion12
+想	CH::HSK1 CH::Lektion12 CH::TOP2000 chpaused
+看病	CH::Lektion12
+身体	CH::HSK2 CH::Lektion12 CH::TOP2000
+吧	CH::HSK2 CH::Lektion12 CH::TOP2000
+还是	CH::HSK3 CH::Lektion12 CH::TOP2000
+穿	CH::HSK2 CH::Lektion12 CH::TOP2000 chpaused leech
+衣服	CH::HSK1 CH::Lektion12 CH::TOP2000
+休息	CH::HSK2 CH::Lektion12 CH::TOP2000 leech
+挂号	CH::Lektion12 chpaused leech
+有点儿	CH::Lektion12
+发炎	CH::Lektion12
+发烧	CH::HSK3 CH::Lektion12 chpaused
+烧	CH::Lektion12 CH::TOP2000 leech
+感冒	CH::HSK3 CH::Lektion12 chpaused
+住院	CH::Lektion12 chpaused
+药	CH::HSK2 CH::Lektion12 CH::TOP2000
+愿意	CH::HSK3 CH::Lektion12 CH::TOP2000 leech marked
+中药	CH::Lektion12
+西药	CH::Lektion12
+西	CH::HSK3 CH::Lektion12 CH::TOP2000
+肚子	CH::HSK4 CH::Lektion12
+开刀	CH::Lektion12 chpaused
+血	CH::Lektion12 CH::TOP2000
+大便	CH::Lektion12
+小便	CH::Lektion12
+生活	CH::HSK4 CH::Lektion12 CH::TOP2000 chpaused leech
+英文	CH::Lektion12
+凉快	CH::HSK4 CH::Lektion12
+打针	CH::HSK4 CH::Lektion12
+姑娘	CH::Lektion13 CH::TOP2000 chpaused
+听说	CH::Lektion13 CH::TOP2000 chpaused
+听	CH::HSK1 CH::Lektion13 CH::TOP2000
+得	CH::HSK2 CH::HSK4 CH::Lektion13 CH::TOP2000
+告诉	CH::HSK2 CH::Lektion13 CH::TOP2000 chpaused leech
+件	CH::HSK2 CH::Lektion13 CH::TOP2000 chpaused leech
+事儿	CH::Lektion13 CH::TOP2000 chpaused
+散步	CH::HSK4 CH::Lektion13 chpaused
+步	CH::Lektion13 CH::TOP2000 chpaused
+电	CH::Lektion13
+影	CH::Lektion13 chpaused
+可是	CH::HSK4 CH::Lektion13 CH::TOP2000 chpaused
+找	CH::HSK2 CH::Lektion13 CH::TOP2000 chpaused
+房子	CH::Lektion13 CH::TOP2000
+租	CH::HSK4 CH::Lektion13
+间	CH::Lektion13 CH::TOP2000 chpaused
+厨房	CH::HSK4 CH::Lektion13 chpaused leech
+厕所	CH::HSK4 CH::Lektion13
+房租	CH::Lektion13 chpaused
+公司	CH::HSK2 CH::Lektion13 CH::TOP2000
+办	CH::Lektion13 CH::TOP2000 chpaused
+打电话	CH::HSK1 CH::Lektion13 CH::TOP2000
+让	CH::HSK2 CH::Lektion13 CH::TOP2000 chpaused
+帮助	CH::HSK2 CH::Lektion13 CH::TOP2000 chpaused leech marked
+位	CH::HSK3 CH::Lektion13 CH::TOP2000
+经理	CH::HSK3 CH::Lektion13 chpaused
+可能	CH::HSK2 CH::Lektion13 CH::TOP2000
+饭	CH::Lektion13
+客厅	CH::HSK4 CH::Lektion13 chpaused
+卧室	CH::Lektion13 chpaused
+书房	CH::Lektion13 chpaused
+方便	CH::HSK3 CH::Lektion13 chpaused leech
+巧	CH::Lektion13 chpaused
+合适	CH::HSK4 CH::Lektion13 CH::TOP2000 chpaused leech
+热心	CH::Lektion13 chpaused
+包括	CH::Lektion13 CH::TOP2000 chpaused leech
+水电费	CH::Lektion13 chpaused
+新	CH::HSK2 CH::Lektion13 CH::TOP2000
+回信	CH::Lektion13 chpaused
+刚才	CH::HSK3 CH::Lektion14 CH::TOP2000
+邮局	CH::HSK4 CH::Lektion14 chpaused
+邮	CH::Lektion14 chpaused
+局	CH::Lektion14 CH::TOP2000 chpaused
+寄	CH::HSK4 CH::Lektion14 CH::TOP2000 chpaused
+打扫	CH::HSK3 CH::Lektion14 chpaused
+扫	CH::Lektion14 chpaused
+脏	CH::HSK4 CH::Lektion14 chpaused marked
+不好意思	CH::Lektion14 CH::TOP2000
+中学	CH::Lektion14
+打工	CH::Lektion14 chpaused
+南方	CH::Lektion14 chpaused
+旅行	CH::HSK4 CH::Lektion14 CH::TOP2000 chpaused
+留学生	CH::Lektion14 chpaused
+住	CH::HSK1 CH::Lektion14 CH::TOP2000 chpaused
+楼	CH::HSK3 CH::Lektion14 CH::TOP2000
+对	CH::HSK2 CH::Lektion14 CH::TOP2000 chpaused
+念	CH::Lektion14 chpaused
+生词	CH::Lektion14
+词	CH::Lektion14 CH::TOP2000 chpaused
+复习	CH::HSK3 CH::Lektion14 chpaused
+课文	CH::Lektion14
+练习	CH::HSK3 CH::Lektion14 chpaused
+练	CH::Lektion14 chpaused marked
+口语	CH::Lektion14 chpaused
+语法	CH::HSK4 CH::Lektion14 chpaused
+过	CH::HSK2 CH::HSK3 CH::Lektion14 CH::TOP2000 chpaused
+节	CH::HSK4 CH::Lektion14 CH::TOP2000 chpaused
+圣诞	CH::Lektion14 CH::TOP2000 chpaused
+欧洲	CH::Lektion14 chpaused
+整理	CH::HSK4 CH::Lektion14 chpaused
+乱	CH::HSK4 CH::Lektion14 CH::TOP2000 chpaused marked
+日记	CH::HSK4 CH::Lektion14 chpaused
+晴	CH::HSK2 CH::Lektion14 chpaused
+包裹	CH::Lektion14 chpaused
+惊喜	CH::Lektion14 CH::TOP2000 chpaused marked
+圣诞老人	CH::Lektion14 chpaused
+元旦	CH::Lektion14 chpaused
+春节	CH::Lektion14 chpaused
+感恩节	CH::Lektion14 chpaused
+复活节	CH::Lektion14 chpaused
